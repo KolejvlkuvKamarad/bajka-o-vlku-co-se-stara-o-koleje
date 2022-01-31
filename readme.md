@@ -2,6 +2,10 @@
 
 Zdar. Pokud jsi na téhle stránce, tak asi studuješ na VUT a na kuchyňce na kolejích jsi našel mou kvalitní literaturu. Zde najdeš všechny potřebné soubory pro reprodukci dalších kopií nebo vytvoření dalších verzí této kvalitní literatury. Vzdal jsem se mých autorských práv a umístil dílo do veřejné domény pomocí licence [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.cs), takže můžeš s těmihle soubory dělat cokoliv. Pokud tady hledáš odpověd proč jsem tohle vytvořil, vysázel, svázal a umístil do kuchyněk, tak to ti neřeknu. Ale dobrej hloupej absurdní joke to je určitě, co? xD
 
+## Erratum!
+
+V tiráži knihy je uvedeno, že kniha byla prvně vydána v lednu 2022. Z důvodu distribučních problémů[^1] nebylo možné knihu vydat v tento měsíc. Ve skutečnosti bude kniha vydána někdy v únoru 2022. Za problémy s distribucí se kolejvlkův kamarád a Kolejvlk omlouvají.
+
 ## Obsah repozitáře
 
 - `graphics` — Adresář s grafikou použitou v knize.
@@ -43,3 +47,5 @@ Já, kolejvlkův kamarád, jsem autorem a vydávám pod touto licencí všechny 
     - `cc-zero.svg` — Autorem jsou Creative Commons; zdroj [zde](https://creativecommons.org/about/downloads/). Použití ikony CC0 musí být v souladu s [Trademark Policy Creative Commons](https://creativecommons.org/policies#trademark).
     - `Paw-print.svg` — Autorem je kattekrab; zdroj [zde](https://openclipart.org/detail/142447/paw-print-by-kattekrab). Volné dílo z webu Openclipart. 
 - případné uživatelsky zaslané soubory popsané v sekci [Obrázky kolejvlka a jeho kamarádů](#Obrázky-kolejvlka-a-jeho-kamarádů).
+
+[^1]: Kolejvlk to nestih.
