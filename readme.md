@@ -4,7 +4,7 @@ Zdar. Pokud jsi na téhle stránce, tak asi studuješ na VUT a na kuchyňce na k
 
 ## Erratum!
 
-V tiráži knihy je uvedeno, že kniha byla prvně vydána v lednu 2022. Z důvodu distribučních problémů[^1] nebylo možné knihu vydat v tento měsíc. Ve skutečnosti bude kniha vydána někdy v únoru 2022. Za problémy s distribucí se kolejvlkův kamarád a Kolejvlk omlouvají.
+V tiráži knihy je uvedeno, že kniha byla prvně vydána v lednu 2022. Z důvodu distribučních problémů[^1] nebylo možné knihu vydat v tento měsíc. ~~Ve skutečnosti bude kniha vydána někdy v únoru 2022. Za problémy s distribucí se kolejvlkův kamarád a Kolejvlk omlouvají.~~ Z důvodu distribučních problémů s náhradním distribucí [^2] bude skutečné skutečné datum vydání březen 2022.
 
 ## Obsah repozitáře
 
@@ -49,3 +49,5 @@ Já, kolejvlkův kamarád, jsem autorem a vydávám pod touto licencí všechny 
 - případné uživatelsky zaslané soubory popsané v sekci [Obrázky kolejvlka a jeho kamarádů](#Obrázky-kolejvlka-a-jeho-kamarádů).
 
 [^1]: Kolejvlk to nestih.
+
+[^2]: Kolejvlkův kamarád chtěl provést náhradní distribuce na začátku letního semestru. Ale dostal na dva týdny COVID. Ve třetím týdnu se plánovala distribuce ve čtvrtek, ale v ten den zaútočili rusové na Ukrajinu; proto se distribuce dále opozdila do března.
