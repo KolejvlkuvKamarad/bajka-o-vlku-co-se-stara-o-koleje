@@ -16,6 +16,8 @@ V tiráži knihy je uvedeno, že kniha byla prvně vydána v lednu 2022. Z důvo
 
 - `readme.md` — Soubor, který obsahuje to, co právě čteš.
 
+- `translation.txt` — Anglický překlad souboru `zdroj.txt`
+
 - `zdroj.tex` — LaTeXový zdrojový soubor pro generování PDF souboru knihy. Pokud nevíš, co to je, tak si vem nějaký volitelný předmět o typografii a publikování.
 
 - `zdroj.txt` — Celý "příběh" v textovém tvaru, perfektní pro copy–pasty na posílání po Discordu.
